@@ -1,0 +1,6 @@
+-cp src
+-main Client
+-js bin/node/client.js
+
+-lib tink_web
+-lib hxnodejs

@@ -1,0 +1,6 @@
+-cp src
+-main Client
+-php bin/php
+-dce full
+
+-lib tink_web

@@ -1,0 +1,6 @@
+-cp src
+-main Client
+-cpp bin/cpp
+-dce full
+
+-lib tink_web
